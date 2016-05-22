@@ -70,3 +70,18 @@
 2016-05-21 19:26:04,877 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2016-05-21 19:26:04,878 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-05-21 19:26:04,878 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/src/test/resources
+2016-05-21 19:41:52,123 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Title_Validation_E2E:${build.version} @ /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/pom.xml.
+2016-05-21 19:41:52,405 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 19:41:52,406 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-21 19:41:52,407 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 19:41:52,408 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/src/test/resources
+2016-05-21 19:42:34,933 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Title_Validation_E2E:${build.version} @ /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/pom.xml.
+2016-05-21 19:42:35,166 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 19:42:35,167 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-21 19:42:35,169 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 19:42:35,169 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/src/test/resources
+2016-05-21 19:43:00,304 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Title_Validation_E2E:${build.version} @ /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/pom.xml.
+2016-05-21 19:43:00,526 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 19:43:00,527 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-21 19:43:00,528 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 19:43:00,528 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/src/test/resources
