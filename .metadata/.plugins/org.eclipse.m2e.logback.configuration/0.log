@@ -1,0 +1,72 @@
+2016-05-21 18:38:16,550 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/pom.xml
+2016-05-21 18:38:17,310 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Title_Validation_E2E:1.1 @ /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/pom.xml.
+2016-05-21 18:38:17,469 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Title_Validation_E2E/src/main/java
+2016-05-21 18:38:17,471 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Title_Validation_E2E/src/test/java
+2016-05-21 18:38:18,747 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2016-05-21 18:38:19,238 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 18:38:19,239 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/src/main/resources
+2016-05-21 18:38:19,241 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 18:38:19,241 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/src/test/resources
+2016-05-21 18:38:34,475 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 18:38:34,475 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/src/main/resources
+2016-05-21 18:38:34,477 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 18:38:34,477 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/src/test/resources
+2016-05-21 18:38:40,713 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 18:38:40,713 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/src/main/resources
+2016-05-21 18:38:40,714 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 18:38:40,714 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/src/test/resources
+2016-05-21 18:38:48,250 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 18:38:48,250 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/src/main/resources
+2016-05-21 18:38:48,251 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 18:38:48,251 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/src/test/resources
+2016-05-21 18:38:49,228 [Worker-9] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.
+2016-05-21 18:39:08,213 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 18:39:08,213 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/src/main/resources
+2016-05-21 18:39:08,214 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 18:39:08,214 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/src/test/resources
+2016-05-21 18:43:30,026 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 18:43:30,026 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/src/main/resources
+2016-05-21 18:43:30,027 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 18:43:30,027 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/src/test/resources
+2016-05-21 19:06:55,686 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 19:06:55,697 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-21 19:06:55,706 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 19:06:55,706 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/src/test/resources
+2016-05-21 19:10:16,695 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 19:10:16,695 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-21 19:10:16,696 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 19:10:16,696 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/src/test/resources
+2016-05-21 19:12:33,822 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 19:12:33,823 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-21 19:12:33,824 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 19:12:33,824 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/src/test/resources
+2016-05-21 19:13:31,692 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 19:13:31,693 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-21 19:13:31,694 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 19:13:31,694 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/src/test/resources
+2016-05-21 19:23:47,652 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Title_Validation_E2E:${build.version} @ /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/pom.xml.
+2016-05-21 19:23:48,037 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 19:23:48,039 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-21 19:23:48,040 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 19:23:48,040 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/src/test/resources
+2016-05-21 19:23:49,318 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 19:23:49,319 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-21 19:23:49,325 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 19:23:49,325 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/src/test/resources
+2016-05-21 19:25:31,037 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Title_Validation_E2E:${build.version} @ /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/pom.xml.
+2016-05-21 19:25:31,427 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 19:25:31,428 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-21 19:25:31,430 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 19:25:31,430 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/src/test/resources
+2016-05-21 19:25:32,773 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 19:25:32,774 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-21 19:25:32,781 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 19:25:32,781 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/src/test/resources
+2016-05-21 19:25:44,691 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 19:25:44,692 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-21 19:25:44,692 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 19:25:44,692 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/src/test/resources
+2016-05-21 19:26:04,877 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 19:26:04,877 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-21 19:26:04,878 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 19:26:04,878 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/AksanaR/Automation/Title_Validation_E2E/Title_Validation_E2E/src/test/resources
